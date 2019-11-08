@@ -1,0 +1,7 @@
+{
+	"name": "broker-anywhere",
+	"update": "github:tera-mods/broker-anywhere",
+	"title": "Broker Anywhere",
+	"authors": ["Pinkie Pie", "wuaw"],
+	"description": "Lets you open the Trade Broker from anywhere."
+}

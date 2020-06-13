@@ -3,5 +3,7 @@
 		"index.js": "f1n4ZWAkZJ737wGKl+Df0Cx4fYxBTbT6GjuX/AvQqm0=",
 		"mod.json": "pbcqMaCrG05T52EF6FVn8hwx8N5qGoQOZkcQ8DxWppM=",
 		"README.md": "HDqr7/bKr94C4WJhytYsyeYxoG3VMcyNPbTO0Dpzcvc="
-	}
+	},
+	"publicKey": "MCowBQYDK2VwAyEAY31fpV8rIvZ3zGJE6nqoLXcI27/C3xmjDWV7PDavK4w=",
+	"signature": "d9Ga+xX8oihOCn1FDFvmP5uxm+WMVJXxCC/MI0CYoVFP+M+1szvDcBw6gKnyhZbLRJhpFDG+fV/3byADiWI5BA=="
 }
